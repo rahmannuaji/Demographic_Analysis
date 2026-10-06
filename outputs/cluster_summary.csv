@@ -1,0 +1,5 @@
+Cluster,countries,pop_2023_mn,pop_2100_mn,median_TFR_2023,median_age_2023,median_DTI_2023,largest_members,pop_change_%,share_world_2023_%,share_world_2100_%
+"Late transition, still growing",65,1761.24,4564.73,3.84,18.88,27.06,"Pakistan, Nigeria, Ethiopia, Egypt, Democratic Republic of the Congo",159.18,21.77,44.84
+Migration-fuelled growth,12,74.62,158.74,2.22,31.63,66.18,"Saudi Arabia, Jordan, United Arab Emirates, Israel, Kuwait",112.73,0.92,1.56
+"Fast transition, now peaking",80,4794.51,4160.13,1.98,30.59,53.36,"India, China, Indonesia, Brazil, Bangladesh",-13.23,59.25,40.87
+"Early transition, already aged",80,1461.37,1296.57,1.44,41.63,80.73,"United States of America, Russian Federation, Japan, Germany, United Kingdom",-11.28,18.06,12.74

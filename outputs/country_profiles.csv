@@ -1,0 +1,238 @@
+ISO3_code,Location,Region,Cluster,pop_2023_mn,pop_2100_medium_mn,PI95_rel_width,HighLow_rel_spread,ConstFert_vs_Medium_%,ZeroMig_vs_Medium_%,TFR_2023,DTI_2023,Regime_2023,Regime_2050
+IND,India,Asia,"Fast transition, now peaking",1438.07,1505.252,0.913,0.801,16.946,4.075,1.975,49.075,Natural increase + net emigration,Natural increase + net emigration
+CHN,China,Asia,"Fast transition, now peaking",1422.585,633.368,0.768,0.866,-16.943,4.102,1.0,73.219,Natural decrease + net emigration,Natural decrease + net emigration
+USA,United States of America,Northern America,"Early transition, already aged",343.477,421.279,0.877,0.615,-1.713,-36.464,1.624,72.618,Natural increase + net immigration,Natural decrease + net immigration
+IDN,Indonesia,Asia,"Fast transition, now peaking",281.19,295.511,0.917,0.795,23.702,3.12,2.127,51.059,Natural increase + net emigration,Natural increase + net emigration
+PAK,Pakistan,Asia,"Late transition, still growing",247.504,511.001,1.475,0.729,106.969,13.618,3.605,32.311,Natural increase + net emigration,Natural increase + net emigration
+NGA,Nigeria,Africa,"Late transition, still growing",227.883,476.748,1.86,0.681,193.69,-7.186,4.482,11.41,Natural increase + net emigration,Natural increase + net immigration
+BRA,Brazil,Latin America and the Caribbean,"Fast transition, now peaking",211.141,163.364,0.831,0.819,1.865,2.91,1.619,53.659,Natural increase + net emigration,Natural decrease + net emigration
+BGD,Bangladesh,Asia,"Fast transition, now peaking",171.467,208.597,1.084,0.835,31.723,14.156,2.163,34.88,Natural increase + net emigration,Natural increase + net emigration
+RUS,Russian Federation,Europe,"Early transition, already aged",145.44,126.387,0.681,0.699,-7.75,-30.278,1.449,69.15,Natural decrease + net immigration,Natural decrease + net immigration
+MEX,Mexico,Latin America and the Caribbean,"Fast transition, now peaking",129.74,130.249,1.127,0.854,17.602,6.961,1.91,44.712,Natural increase + net emigration,Natural increase + net emigration
+ETH,Ethiopia,Africa,"Late transition, still growing",128.692,367.29,1.306,0.667,142.23,-7.518,3.988,28.197,Natural increase + net emigration,Natural increase + net immigration
+JPN,Japan,Asia,"Early transition, already aged",124.371,76.846,0.846,0.69,-10.695,-22.741,1.208,95.055,Natural decrease + net immigration,Natural decrease + net immigration
+PHL,Philippines,Asia,"Fast transition, now peaking",114.891,114.222,1.312,0.869,15.778,10.126,1.916,45.12,Natural increase + net emigration,Natural increase + net emigration
+EGY,Egypt,Africa,"Late transition, still growing",114.536,201.895,1.11,0.727,50.593,2.169,2.75,43.064,Natural increase + net immigration,Natural increase + net emigration
+COD,Democratic Republic of the Congo,Africa,"Late transition, still growing",105.79,430.709,2.513,0.561,261.371,2.465,6.05,13.778,Natural increase + net emigration,Natural increase + net emigration
+VNM,Viet Nam,Asia,"Fast transition, now peaking",100.352,91.705,0.907,0.814,13.607,4.924,1.912,50.267,Natural increase + net emigration,Natural increase + net emigration
+IRN,Iran (Islamic Republic of),Asia,"Fast transition, now peaking",90.609,80.045,1.047,0.781,3.976,4.438,1.695,61.078,Natural increase + net immigration,Natural increase + net emigration
+TUR,Türkiye,Asia,"Fast transition, now peaking",87.271,65.338,1.526,0.812,-1.643,21.543,1.625,63.64,Natural increase + net emigration,Natural decrease + net emigration
+DEU,Germany,Europe,"Early transition, already aged",84.548,70.9,0.95,0.647,-6.818,-29.296,1.441,86.294,Natural decrease + net immigration,Natural decrease + net immigration
+THA,Thailand,Asia,"Fast transition, now peaking",71.702,45.555,1.034,0.786,-9.067,-20.126,1.212,64.09,Natural decrease + net immigration,Natural decrease + net immigration
+GBR,United Kingdom,Europe,"Early transition, already aged",68.683,74.305,1.67,0.649,-0.21,-33.063,1.56,80.301,Natural increase + net immigration,Natural decrease + net immigration
+TZA,United Republic of Tanzania,Africa,"Late transition, still growing",66.618,262.835,1.506,0.619,135.04,1.971,4.606,21.124,Natural increase + net emigration,Natural increase + net emigration
+FRA,France,Europe,"Early transition, already aged",66.439,68.485,0.894,0.648,-0.462,-24.601,1.639,84.968,Natural increase + net immigration,Natural decrease + net immigration
+ZAF,South Africa,Africa,"Fast transition, now peaking",63.212,94.314,1.124,0.734,27.197,-25.474,2.216,38.634,Natural increase + net immigration,Natural increase + net immigration
+ITA,Italy,Europe,"Early transition, already aged",59.499,35.377,0.856,0.72,-10.569,-19.729,1.198,93.461,Natural decrease + net immigration,Natural decrease + net immigration
+KEN,Kenya,Africa,"Late transition, still growing",55.339,104.196,1.4,0.796,93.439,8.766,3.208,27.637,Natural increase + net emigration,Natural increase + net emigration
+MMR,Myanmar,Asia,"Fast transition, now peaking",54.134,49.659,1.239,0.888,26.817,9.996,2.115,43.49,Natural increase + net emigration,Natural increase + net emigration
+COL,Colombia,Latin America and the Caribbean,"Fast transition, now peaking",52.321,47.081,1.757,0.812,3.422,-3.253,1.645,48.298,Natural increase + net immigration,Natural increase + net emigration
+KOR,Republic of Korea,Asia,"Early transition, already aged",51.749,21.849,1.953,0.845,-22.037,-15.921,0.72,97.08,Natural decrease + net immigration,Natural decrease + net immigration
+SDN,Sudan,Africa,"Late transition, still growing",50.043,136.891,2.018,0.658,133.391,16.972,4.323,28.049,Natural increase + net emigration,Natural increase + net emigration
+UGA,Uganda,Africa,"Late transition, still growing",48.657,120.835,1.701,0.756,202.283,23.795,4.283,21.358,Natural increase + net emigration,Natural increase + net emigration
+ESP,Spain,Europe,"Early transition, already aged",47.912,33.127,2.601,0.698,-10.344,-25.202,1.213,91.676,Natural decrease + net immigration,Natural decrease + net immigration
+DZA,Algeria,Africa,"Fast transition, now peaking",46.164,64.488,1.191,0.691,61.882,6.303,2.766,60.443,Natural increase + net emigration,Natural increase + net emigration
+ARG,Argentina,Latin America and the Caribbean,"Early transition, already aged",45.538,38.256,0.751,0.801,-4.745,-0.185,1.5,60.809,Natural increase + net immigration,Natural decrease + net immigration
+IRQ,Iraq,Asia,"Late transition, still growing",45.074,100.649,1.529,0.716,77.646,3.429,3.248,38.108,Natural increase + net emigration,Natural increase + net emigration
+AFG,Afghanistan,Asia,"Late transition, still growing",41.455,130.217,2.744,0.581,187.82,5.806,4.84,26.45,Natural increase + net emigration,Natural increase + net emigration
+YEM,Yemen,Asia,"Late transition, still growing",39.391,110.036,1.643,0.666,190.967,7.276,4.59,29.924,Natural increase + net emigration,Natural increase + net emigration
+CAN,Canada,Northern America,"Early transition, already aged",39.299,53.612,1.26,0.555,-3.504,-55.122,1.349,83.473,Natural increase + net immigration,Natural decrease + net immigration
+POL,Poland,Europe,"Early transition, already aged",38.763,19.33,0.881,0.817,-9.484,6.342,1.299,78.982,Natural decrease + net emigration,Natural decrease + net emigration
+UKR,Ukraine,Europe,"Early transition, already aged",37.733,15.197,0.899,0.933,-18.611,-10.649,0.977,67.542,Natural decrease + net emigration,Natural decrease + net emigration
+MAR,Morocco,Africa,"Fast transition, now peaking",37.713,37.884,0.922,0.825,32.326,22.384,2.23,56.736,Natural increase + net emigration,Natural increase + net emigration
+AGO,Angola,Africa,"Late transition, still growing",36.75,150.046,3.095,0.631,199.361,-2.696,5.124,12.367,Natural increase + net emigration,Natural increase + net immigration
+UZB,Uzbekistan,Asia,"Fast transition, now peaking",35.652,74.35,1.373,0.675,96.382,1.397,3.5,44.502,Natural increase + net emigration,Natural increase + net emigration
+MYS,Malaysia,Asia,"Fast transition, now peaking",35.126,44.026,2.19,0.692,1.183,-30.235,1.55,69.827,Natural increase + net immigration,Natural increase + net immigration
+PER,Peru,Latin America and the Caribbean,"Fast transition, now peaking",33.846,38.163,1.371,0.76,17.96,1.012,1.98,53.609,Natural increase + net immigration,Natural increase + net emigration
+GHA,Ghana,Africa,"Late transition, still growing",33.788,67.548,1.575,0.727,85.855,8.53,3.397,32.298,Natural increase + net emigration,Natural increase + net emigration
+MOZ,Mozambique,Africa,"Late transition, still growing",33.635,104.347,2.252,0.725,221.881,10.087,4.763,10.592,Natural increase + net emigration,Natural increase + net emigration
+SAU,Saudi Arabia,Asia,Migration-fuelled growth,33.264,71.007,1.041,0.561,24.184,-41.919,2.28,67.031,Natural increase + net immigration,Natural increase + net immigration
+MDG,Madagascar,Africa,"Late transition, still growing",31.196,85.341,1.634,0.714,123.624,2.566,3.972,14.299,Natural increase + net emigration,Natural increase + net emigration
+CIV,Côte d'Ivoire,Africa,"Late transition, still growing",31.166,104.043,2.092,0.629,118.362,-8.605,4.283,19.025,Natural increase + net immigration,Natural increase + net immigration
+NPL,Nepal,Asia,"Fast transition, now peaking",29.695,31.831,1.645,0.937,23.874,10.923,1.984,31.277,Natural increase + net emigration,Natural increase + net emigration
+CMR,Cameroon,Africa,"Late transition, still growing",28.373,88.876,1.454,0.665,144.903,4.557,4.322,16.819,Natural increase + net emigration,Natural increase + net emigration
+VEN,Venezuela (Bolivarian Republic of),Latin America and the Caribbean,"Fast transition, now peaking",28.301,28.281,2.243,0.884,22.87,14.238,2.079,34.46,Natural increase + net emigration,Natural increase + net emigration
+AUS,Australia,Oceania,"Early transition, already aged",26.451,43.144,1.174,0.541,-0.063,-48.767,1.638,82.903,Natural increase + net immigration,Natural increase + net immigration
+PRK,Dem. People's Republic of Korea,Asia,"Fast transition, now peaking",26.418,19.512,1.082,0.828,8.454,3.601,1.78,62.344,Natural increase + net emigration,Natural decrease + net emigration
+NER,Niger,Africa,"Late transition, still growing",26.16,90.819,1.712,0.619,356.744,4.454,6.062,4.328,Natural increase + net immigration,Natural increase + net emigration
+MLI,Mali,Africa,"Late transition, still growing",23.769,79.354,2.226,0.661,273.464,15.406,5.614,6.21,Natural increase + net emigration,Natural increase + net emigration
+SYR,Syrian Arab Republic,Asia,"Fast transition, now peaking",23.595,43.687,3.383,0.757,59.868,-5.204,2.712,42.25,Natural increase + net immigration,Natural increase + net immigration
+TWN,"China, Taiwan Province of China",Asia,"Early transition, already aged",23.317,10.017,1.436,0.814,-17.563,-12.405,0.87,87.346,Natural decrease + net emigration,Natural decrease + net immigration
+BFA,Burkina Faso,Africa,"Late transition, still growing",23.026,49.854,1.912,0.733,176.062,9.711,4.186,17.544,Natural increase + net emigration,Natural increase + net emigration
+LKA,Sri Lanka,Asia,"Fast transition, now peaking",22.972,21.249,1.461,0.799,16.857,14.56,1.974,66.519,Natural increase + net emigration,Natural increase + net emigration
+MWI,Malawi,Africa,"Late transition, still growing",21.104,59.141,2.124,0.752,114.145,1.371,3.648,19.465,Natural increase + net emigration,Natural increase + net emigration
+ZMB,Zambia,Africa,"Late transition, still growing",20.724,64.474,2.279,0.707,132.13,4.765,4.101,18.648,Natural increase + net immigration,Natural increase + net emigration
+KAZ,Kazakhstan,Asia,"Fast transition, now peaking",20.33,33.672,3.195,0.669,58.564,6.525,3.012,55.962,Natural increase + net emigration,Natural increase + net emigration
+CHL,Chile,Latin America and the Caribbean,"Early transition, already aged",19.659,13.431,1.777,0.78,-8.635,-10.16,1.167,79.736,Natural increase + net immigration,Natural decrease + net immigration
+TCD,Chad,Africa,"Late transition, still growing",19.319,69.547,3.461,0.567,263.083,9.435,6.12,2.653,Natural increase + net immigration,Natural increase + net emigration
+ROU,Romania,Europe,"Early transition, already aged",19.118,10.768,1.253,0.848,0.497,21.104,1.713,64.177,Natural decrease + net emigration,Natural decrease + net emigration
+SOM,Somalia,Africa,"Late transition, still growing",18.359,67.364,2.9,0.603,283.317,8.814,6.132,7.177,Natural increase + net immigration,Natural increase + net emigration
+GTM,Guatemala,Latin America and the Caribbean,"Fast transition, now peaking",18.125,25.912,1.124,0.838,40.631,2.814,2.311,36.365,Natural increase + net emigration,Natural increase + net emigration
+NLD,Netherlands,Europe,"Early transition, already aged",18.093,17.508,1.186,0.672,-5.809,-30.223,1.43,85.833,Natural increase + net immigration,Natural decrease + net immigration
+SEN,Senegal,Africa,"Late transition, still growing",18.078,47.014,1.893,0.674,97.006,12.347,3.818,33.741,Natural increase + net emigration,Natural increase + net emigration
+ECU,Ecuador,Latin America and the Caribbean,"Fast transition, now peaking",17.98,19.092,0.9,0.796,10.561,1.573,1.823,48.253,Natural increase + net emigration,Natural increase + net emigration
+KHM,Cambodia,Asia,"Late transition, still growing",17.424,22.739,2.112,0.835,52.638,12.563,2.579,41.485,Natural increase + net emigration,Natural increase + net emigration
+ZWE,Zimbabwe,Africa,"Late transition, still growing",16.341,37.167,1.328,0.765,122.583,21.288,3.724,18.645,Natural increase + net emigration,Natural increase + net emigration
+GIN,Guinea,Africa,"Late transition, still growing",14.405,32.007,1.814,0.758,168.805,10.891,4.218,12.071,Natural increase + net emigration,Natural increase + net emigration
+BEN,Benin,Africa,"Late transition, still growing",14.111,39.588,1.647,0.655,152.631,4.656,4.556,18.31,Natural increase + net emigration,Natural increase + net emigration
+RWA,Rwanda,Africa,"Late transition, still growing",13.954,32.779,2.672,0.669,106.538,6.908,3.698,38.63,Natural increase + net emigration,Natural increase + net emigration
+BDI,Burundi,Africa,"Late transition, still growing",13.689,37.874,2.263,0.669,205.477,12.639,4.878,25.148,Natural increase + net immigration,Natural increase + net emigration
+BOL,Bolivia (Plurinational State of),Latin America and the Caribbean,"Late transition, still growing",12.244,17.761,1.284,0.798,46.234,1.887,2.547,34.196,Natural increase + net emigration,Natural increase + net emigration
+TUN,Tunisia,Africa,"Fast transition, now peaking",12.2,10.652,2.095,0.794,10.36,15.568,1.832,69.548,Natural increase + net emigration,Natural increase + net emigration
+BEL,Belgium,Europe,"Early transition, already aged",11.713,11.061,1.026,0.655,-7.286,-30.597,1.38,83.905,Natural decrease + net immigration,Natural decrease + net immigration
+HTI,Haiti,Latin America and the Caribbean,"Late transition, still growing",11.637,15.151,1.239,0.83,59.576,10.465,2.656,34.751,Natural increase + net emigration,Natural increase + net emigration
+SSD,South Sudan,Africa,"Late transition, still growing",11.483,23.841,2.919,0.742,138.256,-4.178,3.864,10.142,Natural increase + net immigration,Natural increase + net emigration
+JOR,Jordan,Asia,Migration-fuelled growth,11.439,21.323,1.453,0.663,51.382,-10.309,2.639,56.607,Natural increase + net emigration,Natural increase + net immigration
+DOM,Dominican Republic,Latin America and the Caribbean,"Fast transition, now peaking",11.331,11.675,0.955,0.826,35.58,18.83,2.243,41.702,Natural increase + net emigration,Natural increase + net emigration
+CUB,Cuba,Latin America and the Caribbean,"Early transition, already aged",11.02,5.577,0.803,0.893,-8.247,15.529,1.439,58.669,Natural decrease + net emigration,Natural decrease + net emigration
+CZE,Czechia,Europe,"Early transition, already aged",10.81,8.228,0.933,0.703,-8.179,-17.717,1.448,82.66,Natural decrease + net emigration,Natural decrease + net immigration
+HND,Honduras,Latin America and the Caribbean,"Fast transition, now peaking",10.645,17.03,1.317,0.779,45.468,0.968,2.5,36.661,Natural increase + net emigration,Natural increase + net emigration
+ARE,United Arab Emirates,Asia,Migration-fuelled growth,10.642,26.134,2.873,0.601,-11.397,-73.714,1.2,80.345,Natural increase + net immigration,Natural increase + net immigration
+SWE,Sweden,Europe,"Early transition, already aged",10.551,11.367,1.311,0.625,-5.902,-34.577,1.43,87.854,Natural increase + net immigration,Natural decrease + net immigration
+PRT,Portugal,Europe,"Early transition, already aged",10.431,8.754,0.763,0.639,-5.011,-27.719,1.508,87.761,Natural decrease + net immigration,Natural decrease + net immigration
+TJK,Tajikistan,Asia,"Late transition, still growing",10.39,20.202,1.722,0.819,76.244,13.244,3.072,36.8,Natural increase + net emigration,Natural increase + net emigration
+PNG,Papua New Guinea,Oceania,"Late transition, still growing",10.39,18.641,2.209,0.738,70.916,-0.679,3.1,34.796,Natural increase + net emigration,Natural increase + net emigration
+AZE,Azerbaijan,Asia,"Fast transition, now peaking",10.318,10.021,0.96,0.782,0.168,-14.178,1.67,48.441,Natural increase + net emigration,Natural decrease + net immigration
+GRC,Greece,Europe,"Early transition, already aged",10.243,6.276,1.66,0.702,-6.727,-13.609,1.334,87.238,Natural decrease + net emigration,Natural decrease + net immigration
+HUN,Hungary,Europe,"Early transition, already aged",9.686,7.461,0.654,0.703,-5.873,-23.317,1.486,75.749,Natural decrease + net immigration,Natural decrease + net immigration
+TGO,Togo,Africa,"Late transition, still growing",9.304,26.301,1.579,0.694,111.751,9.001,4.192,22.418,Natural increase + net emigration,Natural increase + net emigration
+ISR,Israel,Asia,Migration-fuelled growth,9.256,19.747,4.188,0.572,40.955,-17.589,2.83,72.007,Natural increase + net immigration,Natural increase + net immigration
+AUT,Austria,Europe,"Early transition, already aged",9.13,7.399,1.059,0.668,-8.299,-29.963,1.318,85.769,Natural decrease + net immigration,Natural decrease + net immigration
+BLR,Belarus,Europe,"Early transition, already aged",9.116,4.351,0.88,0.879,-16.701,5.58,1.208,74.465,Natural decrease + net emigration,Natural decrease + net emigration
+CHE,Switzerland,Europe,"Early transition, already aged",8.871,9.126,1.54,0.612,-5.299,-37.444,1.433,89.177,Natural increase + net immigration,Natural decrease + net immigration
+SLE,Sierra Leone,Africa,"Late transition, still growing",8.461,15.934,1.904,0.776,152.269,10.181,3.791,17.161,Natural increase + net emigration,Natural increase + net emigration
+LAO,Lao People's Democratic Republic,Asia,"Late transition, still growing",7.665,9.256,1.436,0.923,55.344,14.107,2.421,28.188,Natural increase + net emigration,Natural increase + net emigration
+HKG,"China, Hong Kong SAR",Asia,"Early transition, already aged",7.443,2.08,7.761,0.866,-16.25,16.258,0.717,99.618,Natural decrease + net emigration,Natural decrease + net emigration
+TKM,Turkmenistan,Asia,"Fast transition, now peaking",7.364,9.947,1.262,0.789,54.631,12.662,2.69,43.292,Natural increase + net immigration,Natural increase + net emigration
+LBY,Libya,Africa,"Fast transition, now peaking",7.306,9.784,1.57,0.694,41.374,-6.253,2.355,55.597,Natural increase + net emigration,Natural increase + net immigration
+KGZ,Kyrgyzstan,Asia,"Fast transition, now peaking",7.074,11.73,1.974,0.755,54.313,6.635,2.8,47.325,Natural increase + net immigration,Natural increase + net emigration
+PRY,Paraguay,Latin America and the Caribbean,"Fast transition, now peaking",6.844,9.048,1.38,0.808,37.8,11.09,2.422,42.217,Natural increase + net emigration,Natural increase + net emigration
+NIC,Nicaragua,Latin America and the Caribbean,"Fast transition, now peaking",6.824,8.612,1.263,0.861,34.589,10.125,2.218,34.322,Natural increase + net emigration,Natural increase + net emigration
+BGR,Bulgaria,Europe,"Early transition, already aged",6.796,3.531,1.101,0.84,1.913,20.211,1.749,64.239,Natural decrease + net immigration,Natural decrease + net emigration
+SRB,Serbia,Europe,"Early transition, already aged",6.773,3.701,1.281,0.818,-6.993,9.18,1.5,74.396,Natural decrease + net immigration,Natural decrease + net emigration
+SLV,El Salvador,Latin America and the Caribbean,"Fast transition, now peaking",6.31,5.073,3.448,0.943,10.509,27.448,1.775,44.315,Natural increase + net emigration,Natural increase + net emigration
+COG,Congo,Africa,"Late transition, still growing",6.183,20.026,1.622,0.653,117.739,2.043,4.157,20.793,Natural increase + net emigration,Natural increase + net emigration
+DNK,Denmark,Europe,"Early transition, already aged",5.948,5.863,0.865,0.665,-4.492,-26.899,1.511,85.805,Natural increase + net immigration,Natural decrease + net immigration
+SGP,Singapore,Asia,"Early transition, already aged",5.789,4.163,4.145,0.755,-14.675,-28.748,0.943,89.306,Natural increase + net immigration,Natural decrease + net immigration
+LBN,Lebanon,Asia,"Fast transition, now peaking",5.773,7.193,2.454,0.747,27.561,4.446,2.24,56.524,Natural increase + net emigration,Natural increase + net emigration
+FIN,Finland,Europe,"Early transition, already aged",5.601,4.601,1.413,0.67,-9.177,-29.447,1.28,87.945,Natural decrease + net immigration,Natural decrease + net immigration
+NOR,Norway,Europe,"Early transition, already aged",5.519,5.414,2.051,0.664,-6.201,-28.882,1.405,87.855,Natural increase + net immigration,Natural decrease + net immigration
+SVK,Slovakia,Europe,"Early transition, already aged",5.518,3.427,0.648,0.775,-5.257,4.365,1.56,70.449,Natural decrease + net immigration,Natural decrease + net emigration
+LBR,Liberia,Africa,"Late transition, still growing",5.493,12.665,2.726,0.737,147.23,4.059,3.95,12.47,Natural increase + net emigration,Natural increase + net emigration
+PSE,State of Palestine,Asia,"Late transition, still growing",5.409,11.482,4.799,0.726,95.552,14.035,3.311,35.135,Natural increase + net emigration,Natural increase + net emigration
+IRL,Ireland,Europe,"Early transition, already aged",5.197,5.286,4.619,0.696,-0.285,-18.85,1.598,86.198,Natural increase + net immigration,Natural increase + net immigration
+NZL,New Zealand,Oceania,"Early transition, already aged",5.173,5.812,2.133,0.645,2.888,-27.44,1.667,77.057,Natural increase + net immigration,Natural decrease + net immigration
+CAF,Central African Republic,Africa,"Late transition, still growing",5.152,18.779,3.149,0.648,342.461,12.857,6.012,0.0,Natural increase + net emigration,Natural increase + net emigration
+CRI,Costa Rica,Latin America and the Caribbean,"Fast transition, now peaking",5.106,3.776,0.936,0.787,-7.052,-2.724,1.33,64.434,Natural increase + net immigration,Natural decrease + net immigration
+OMN,Oman,Asia,"Fast transition, now peaking",5.049,12.095,1.854,0.521,37.181,-47.659,2.525,68.895,Natural increase + net immigration,Natural increase + net immigration
+MRT,Mauritania,Africa,"Late transition, still growing",5.022,17.118,1.659,0.618,156.423,9.423,4.697,27.371,Natural increase + net immigration,Natural increase + net emigration
+KWT,Kuwait,Asia,Migration-fuelled growth,4.839,9.602,2.492,0.54,-1.702,-64.625,1.525,74.046,Natural increase + net immigration,Natural increase + net immigration
+PAN,Panama,Latin America and the Caribbean,"Fast transition, now peaking",4.459,5.905,0.878,0.716,20.478,-5.163,2.119,48.858,Natural increase + net immigration,Natural increase + net immigration
+HRV,Croatia,Europe,"Early transition, already aged",3.896,2.141,1.345,0.785,-5.893,4.129,1.468,81.211,Natural decrease + net immigration,Natural decrease + net emigration
+GEO,Georgia,Asia,"Early transition, already aged",3.807,2.969,5.057,0.779,6.652,5.923,1.81,61.976,Natural decrease + net immigration,Natural decrease + net emigration
+ERI,Eritrea,Africa,"Late transition, still growing",3.47,8.444,2.206,0.719,112.306,11.697,3.714,30.201,Natural increase + net emigration,Natural increase + net emigration
+MNG,Mongolia,Asia,"Fast transition, now peaking",3.432,5.519,1.341,0.718,59.319,-6.998,2.685,53.109,Natural increase + net emigration,Natural increase + net emigration
+URY,Uruguay,Latin America and the Caribbean,"Early transition, already aged",3.388,2.246,1.171,0.835,-4.415,4.302,1.409,65.653,Natural increase + net emigration,Natural decrease + net emigration
+PRI,Puerto Rico,Latin America and the Caribbean,"Early transition, already aged",3.242,0.996,2.539,1.001,-17.998,29.151,0.941,73.81,Natural decrease + net immigration,Natural decrease + net emigration
+BIH,Bosnia and Herzegovina,Europe,"Early transition, already aged",3.185,1.366,2.804,0.877,-8.468,28.906,1.486,74.047,Natural decrease + net emigration,Natural decrease + net emigration
+MDA,Republic of Moldova,Europe,"Early transition, already aged",3.067,1.488,3.016,0.971,2.193,52.399,1.731,56.476,Natural decrease + net emigration,Natural decrease + net emigration
+QAT,Qatar,Asia,Migration-fuelled growth,2.979,7.272,3.004,0.553,2.954,-74.185,1.729,76.294,Natural increase + net immigration,Natural increase + net immigration
+NAM,Namibia,Africa,"Late transition, still growing",2.963,5.898,1.773,0.747,79.07,9.202,3.212,33.176,Natural increase + net immigration,Natural increase + net immigration
+ARM,Armenia,Asia,"Early transition, already aged",2.943,1.692,6.51,0.878,0.366,45.076,1.714,62.216,Natural increase + net immigration,Natural decrease + net emigration
+LTU,Lithuania,Europe,"Early transition, already aged",2.854,1.209,2.365,0.928,-13.906,17.558,1.201,79.517,Natural decrease + net immigration,Natural decrease + net emigration
+JAM,Jamaica,Latin America and the Caribbean,"Fast transition, now peaking",2.84,1.067,3.182,1.288,-5.599,65.689,1.358,48.858,Natural increase + net emigration,Natural decrease + net emigration
+ALB,Albania,Europe,"Fast transition, now peaking",2.812,1.185,4.569,0.935,-7.071,53.7,1.348,69.509,Natural increase + net emigration,Natural decrease + net emigration
+GMB,Gambia,Africa,"Late transition, still growing",2.698,5.703,1.906,0.71,176.574,4.513,4.006,29.803,Natural increase + net emigration,Natural increase + net emigration
+GAB,Gabon,Africa,"Late transition, still growing",2.485,6.903,1.608,0.649,99.833,-11.35,3.647,28.913,Natural increase + net immigration,Natural increase + net immigration
+BWA,Botswana,Africa,"Late transition, still growing",2.48,3.837,2.353,0.8,64.595,6.349,2.732,37.273,Natural increase + net emigration,Natural increase + net emigration
+LSO,Lesotho,Africa,"Late transition, still growing",2.311,3.259,2.702,0.871,59.919,12.655,2.694,20.433,Natural increase + net emigration,Natural increase + net emigration
+GNB,Guinea-Bissau,Africa,"Late transition, still growing",2.153,4.665,2.966,0.729,131.909,6.81,3.836,23.382,Natural increase + net emigration,Natural increase + net emigration
+SVN,Slovenia,Europe,"Early transition, already aged",2.118,1.632,0.622,0.68,-1.845,-18.335,1.576,85.585,Natural decrease + net immigration,Natural decrease + net immigration
+LVA,Latvia,Europe,"Early transition, already aged",1.882,0.925,2.863,0.845,-9.357,6.934,1.338,78.458,Natural decrease + net immigration,Natural decrease + net emigration
+GNQ,Equatorial Guinea,Africa,"Late transition, still growing",1.848,5.003,6.87,0.708,156.451,-7.504,4.081,11.301,Natural increase + net immigration,Natural increase + net immigration
+MKD,North Macedonia,Europe,"Early transition, already aged",1.832,0.863,2.872,0.929,-6.311,34.778,1.465,71.413,Natural decrease + net emigration,Natural decrease + net emigration
+XKX,Kosovo (under UNSC res. 1244),Europe,"Fast transition, now peaking",1.7,1.095,4.605,0.901,2.951,30.058,1.545,67.404,Natural increase + net emigration,Natural decrease + net emigration
+BHR,Bahrain,Asia,"Fast transition, now peaking",1.57,3.09,1.762,0.573,7.535,-57.414,1.824,72.52,Natural increase + net immigration,Natural increase + net immigration
+TTO,Trinidad and Tobago,Latin America and the Caribbean,"Fast transition, now peaking",1.503,0.898,1.49,0.906,-0.644,7.092,1.532,54.278,Natural increase + net immigration,Natural decrease + net emigration
+TLS,Timor-Leste,Asia,"Late transition, still growing",1.384,1.973,2.428,0.819,76.288,4.601,2.707,38.777,Natural increase + net emigration,Natural increase + net immigration
+EST,Estonia,Europe,"Early transition, already aged",1.367,0.826,1.947,0.764,-11.591,-0.884,1.35,84.763,Natural decrease + net immigration,Natural decrease + net immigration
+CYP,Cyprus,Asia,"Early transition, already aged",1.345,1.275,3.983,0.666,-3.465,-31.404,1.389,83.366,Natural increase + net immigration,Natural decrease + net immigration
+MUS,Mauritius,Africa,"Fast transition, now peaking",1.274,0.582,1.161,0.979,-9.553,21.04,1.241,62.109,Natural increase + net emigration,Natural decrease + net emigration
+SWZ,Eswatini,Africa,"Late transition, still growing",1.231,1.341,1.481,0.984,80.545,39.095,2.752,27.056,Natural increase + net emigration,Natural increase + net emigration
+DJI,Djibouti,Africa,Migration-fuelled growth,1.153,1.842,5.226,0.705,46.443,-12.131,2.609,45.741,Natural increase + net immigration,Natural increase + net immigration
+FJI,Fiji,Oceania,"Fast transition, now peaking",0.924,0.879,2.663,0.899,34.879,25.443,2.281,45.776,Natural increase + net emigration,Natural increase + net emigration
+REU,Réunion,Africa,"Fast transition, now peaking",0.875,0.852,1.386,0.708,21.773,16.563,2.174,73.909,Natural increase + net emigration,Natural increase + net emigration
+COM,Comoros,Africa,"Late transition, still growing",0.85,1.911,1.973,0.686,113.921,16.727,3.878,33.256,Natural increase + net emigration,Natural increase + net emigration
+GUY,Guyana,Latin America and the Caribbean,"Fast transition, now peaking",0.826,0.889,2.9,0.9,46.062,29.377,2.412,35.859,Natural increase + net emigration,Natural increase + net emigration
+SLB,Solomon Islands,Oceania,"Late transition, still growing",0.8,1.849,2.117,0.705,94.595,7.43,3.557,39.599,Natural increase + net immigration,Natural increase + net emigration
+BTN,Bhutan,Asia,"Fast transition, now peaking",0.786,0.69,1.794,0.813,-0.97,-7.597,1.462,58.866,Natural increase + net immigration,Natural increase + net immigration
+MAC,"China, Macao SAR",Asia,"Early transition, already aged",0.714,0.331,4.948,0.873,-18.847,-17.161,0.662,90.122,Natural increase + net immigration,Natural decrease + net immigration
+LUX,Luxembourg,Europe,"Early transition, already aged",0.665,0.748,6.279,0.64,-5.682,-40.775,1.396,83.04,Natural increase + net immigration,Natural decrease + net immigration
+MNE,Montenegro,Europe,"Early transition, already aged",0.634,0.326,1.341,0.925,6.225,60.883,1.803,75.631,Natural decrease + net immigration,Natural decrease + net emigration
+SUR,Suriname,Latin America and the Caribbean,"Fast transition, now peaking",0.629,0.709,5.587,0.787,31.702,11.315,2.249,47.556,Natural increase + net emigration,Natural increase + net emigration
+ESH,Western Sahara,Africa,Migration-fuelled growth,0.58,0.831,18.076,0.694,23.575,-28.158,2.164,52.844,Natural increase + net immigration,Natural increase + net immigration
+MLT,Malta,Europe,"Early transition, already aged",0.533,0.36,7.494,0.693,-12.485,-28.578,1.098,80.607,Natural increase + net immigration,Natural decrease + net immigration
+MDV,Maldives,Asia,"Fast transition, now peaking",0.526,0.475,3.327,0.72,1.759,-14.69,1.575,73.96,Natural increase + net emigration,Natural increase + net emigration
+CPV,Cabo Verde,Africa,"Fast transition, now peaking",0.522,0.417,4.629,0.869,0.666,16.635,1.522,52.519,Natural increase + net emigration,Natural increase + net emigration
+BRN,Brunei Darussalam,Asia,"Fast transition, now peaking",0.459,0.465,2.488,0.73,8.894,-14.473,1.747,67.078,Natural increase + net emigration,Natural increase + net immigration
+BLZ,Belize,Latin America and the Caribbean,"Fast transition, now peaking",0.411,0.447,3.823,0.846,18.91,13.555,2.007,44.977,Natural increase + net immigration,Natural increase + net emigration
+BHS,Bahamas,Latin America and the Caribbean,"Fast transition, now peaking",0.399,0.385,2.334,0.742,-4.711,-32.835,1.373,59.77,Natural increase + net immigration,Natural decrease + net immigration
+ISL,Iceland,Europe,"Early transition, already aged",0.388,0.363,1.69,0.712,2.195,-17.246,1.54,85.056,Natural increase + net immigration,Natural decrease + net immigration
+GLP,Guadeloupe,Latin America and the Caribbean,"Early transition, already aged",0.377,0.244,2.454,0.78,16.771,34.681,2.089,80.846,Natural increase + net emigration,Natural decrease + net emigration
+MTQ,Martinique,Latin America and the Caribbean,"Early transition, already aged",0.346,0.21,4.578,0.728,14.284,30.711,2.01,81.503,Natural increase + net emigration,Natural decrease + net emigration
+VUT,Vanuatu,Oceania,"Late transition, still growing",0.32,0.875,2.068,0.698,76.345,8.995,3.596,36.508,Natural increase + net emigration,Natural increase + net emigration
+MYT,Mayotte,Africa,"Late transition, still growing",0.316,1.376,2.946,0.544,128.746,-1.486,4.616,40.899,Natural increase + net immigration,Natural increase + net emigration
+GUF,French Guiana,Latin America and the Caribbean,Migration-fuelled growth,0.303,0.775,8.18,0.591,72.274,-7.473,3.388,49.258,Natural increase + net emigration,Natural increase + net immigration
+NCL,New Caledonia,Oceania,"Fast transition, now peaking",0.29,0.337,2.613,0.674,14.11,-10.759,1.98,67.628,Natural increase + net immigration,Natural increase + net immigration
+BRB,Barbados,Latin America and the Caribbean,"Early transition, already aged",0.282,0.195,3.488,0.87,2.187,10.435,1.708,56.619,Natural increase + net emigration,Natural decrease + net emigration
+PYF,French Polynesia,Oceania,"Fast transition, now peaking",0.281,0.187,2.513,0.826,-0.903,22.538,1.501,70.071,Natural increase + net emigration,Natural decrease + net emigration
+STP,Sao Tome and Principe,Africa,"Late transition, still growing",0.231,0.534,2.733,0.75,112.477,18.658,3.644,31.322,Natural increase + net emigration,Natural increase + net emigration
+WSM,Samoa,Oceania,"Late transition, still growing",0.217,0.384,4.228,0.776,99.516,60.177,3.829,40.797,Natural increase + net emigration,Natural increase + net emigration
+CUW,Curaçao,Latin America and the Caribbean,"Early transition, already aged",0.185,0.12,1.405,0.753,-12.31,-25.391,1.073,70.152,Natural decrease + net immigration,Natural decrease + net immigration
+LCA,Saint Lucia,Latin America and the Caribbean,"Fast transition, now peaking",0.179,0.108,5.927,0.928,-5.653,4.71,1.379,56.064,Natural increase + net emigration,Natural decrease + net emigration
+GUM,Guam,Oceania,"Fast transition, now peaking",0.167,0.206,2.901,0.694,57.183,17.021,2.781,55.727,Natural increase + net emigration,Natural increase + net emigration
+KIR,Kiribati,Oceania,"Late transition, still growing",0.133,0.223,3.039,0.785,67.589,18.348,3.147,35.092,Natural increase + net emigration,Natural increase + net emigration
+SYC,Seychelles,Africa,"Fast transition, now peaking",0.128,0.116,3.437,0.825,27.452,0.911,2.133,48.899,Natural increase + net immigration,Natural decrease + net emigration
+GRD,Grenada,Latin America and the Caribbean,"Fast transition, now peaking",0.117,0.074,5.376,0.912,-0.426,14.067,1.487,56.925,Natural increase + net emigration,Natural decrease + net emigration
+FSM,Micronesia (Fed. States of),Oceania,"Late transition, still growing",0.113,0.128,4.313,0.869,63.863,41.498,2.748,39.129,Natural increase + net emigration,Natural increase + net emigration
+ABW,Aruba,Latin America and the Caribbean,"Early transition, already aged",0.108,0.075,6.597,0.799,-3.495,0.939,1.602,63.928,Natural decrease + net immigration,Natural decrease + net immigration
+TON,Tonga,Oceania,"Fast transition, now peaking",0.105,0.118,4.173,0.869,70.792,98.0,3.13,49.663,Natural increase + net emigration,Natural increase + net emigration
+JEY,Jersey,Europe,"Early transition, already aged",0.104,0.1,1.688,0.639,-7.592,-40.116,1.371,76.783,Natural decrease + net immigration,Natural decrease + net immigration
+VCT,Saint Vincent and the Grenadines,Latin America and the Caribbean,"Fast transition, now peaking",0.101,0.064,4.825,0.924,10.038,27.067,1.775,50.243,Natural increase + net emigration,Natural decrease + net emigration
+ATG,Antigua and Barbuda,Latin America and the Caribbean,"Early transition, already aged",0.093,0.068,4.398,0.836,-1.976,7.373,1.578,60.754,Natural increase + net emigration,Natural decrease + net emigration
+VIR,United States Virgin Islands,Latin America and the Caribbean,"Fast transition, now peaking",0.086,0.062,8.752,0.783,20.384,11.712,2.09,63.517,Natural decrease + net emigration,Natural decrease + net emigration
+IMN,Isle of Man,Europe,"Early transition, already aged",0.084,0.058,6.884,0.717,-0.759,-13.507,1.548,74.758,Natural decrease + net immigration,Natural decrease + net immigration
+AND,Andorra,Europe,"Early transition, already aged",0.081,0.047,19.067,0.759,-11.8,-18.792,1.082,88.45,Natural increase + net immigration,Natural decrease + net immigration
+CYM,Cayman Islands,Latin America and the Caribbean,Migration-fuelled growth,0.073,0.118,12.688,0.571,-1.578,-56.547,1.531,82.938,Natural increase + net immigration,Natural increase + net immigration
+DMA,Dominica,Latin America and the Caribbean,"Fast transition, now peaking",0.067,0.049,1.961,0.837,-2.413,-14.172,1.484,50.007,Natural decrease + net emigration,Natural decrease + net immigration
+BMU,Bermuda,Northern America,"Early transition, already aged",0.065,0.036,1.741,0.776,-5.327,3.824,1.401,91.149,Natural decrease + net emigration,Natural decrease + net emigration
+GGY,Guernsey,Europe,"Early transition, already aged",0.064,0.053,1.207,0.669,-6.783,-29.824,1.362,81.777,Natural decrease + net immigration,Natural decrease + net immigration
+GRL,Greenland,Northern America,"Fast transition, now peaking",0.056,0.037,2.293,0.908,14.768,24.249,1.95,52.768,Natural increase + net emigration,Natural decrease + net emigration
+FRO,Faroe Islands,Europe,"Early transition, already aged",0.055,0.063,3.166,0.686,20.853,-3.734,2.24,72.332,Natural increase + net immigration,Natural increase + net immigration
+ASM,American Samoa,Oceania,"Fast transition, now peaking",0.048,0.032,8.121,0.884,38.397,80.585,2.286,51.801,Natural increase + net emigration,Natural increase + net emigration
+KNA,Saint Kitts and Nevis,Latin America and the Caribbean,"Fast transition, now peaking",0.047,0.03,12.473,0.918,-2.097,3.886,1.505,52.548,Natural increase + net emigration,Natural decrease + net emigration
+TCA,Turks and Caicos Islands,Latin America and the Caribbean,"Fast transition, now peaking",0.046,0.039,18.722,0.749,-2.167,-19.621,1.463,73.403,Natural increase + net immigration,Natural decrease + net immigration
+MNP,Northern Mariana Islands,Oceania,Migration-fuelled growth,0.045,0.042,13.331,0.664,33.568,14.205,2.348,63.326,Natural increase + net emigration,Natural decrease + net immigration
+SXM,Sint Maarten (Dutch part),Latin America and the Caribbean,Migration-fuelled growth,0.043,0.042,30.921,0.711,-2.919,-43.119,1.447,65.334,Natural increase + net immigration,Natural decrease + net immigration
+LIE,Liechtenstein,Europe,"Early transition, already aged",0.04,0.044,2.94,0.582,-1.534,-42.227,1.537,86.507,Natural increase + net immigration,Natural decrease + net immigration
+VGB,British Virgin Islands,Latin America and the Caribbean,"Early transition, already aged",0.039,0.028,3.159,0.79,-16.651,-30.093,1.045,64.992,Natural increase + net immigration,Natural decrease + net immigration
+MCO,Monaco,Europe,"Early transition, already aged",0.039,0.047,2.054,0.552,9.832,-35.895,2.11,88.854,Natural decrease + net immigration,Natural decrease + net immigration
+MHL,Marshall Islands,Oceania,"Late transition, still growing",0.039,0.024,8.358,1.068,111.014,150.926,2.919,25.157,Natural increase + net emigration,Natural increase + net emigration
+GIB,Gibraltar,Europe,"Early transition, already aged",0.038,0.049,4.681,0.647,4.909,-26.447,1.888,74.752,Natural increase + net immigration,Natural increase + net immigration
+SMR,San Marino,Europe,"Early transition, already aged",0.034,0.031,1.785,0.581,-9.11,-48.339,1.149,100.0,Natural decrease + net emigration,Natural decrease + net immigration
+BES,"Bonaire, Sint Eustatius and Saba",Latin America and the Caribbean,"Early transition, already aged",0.03,0.028,9.448,0.723,-2.868,-35.057,1.473,67.551,Natural increase + net immigration,Natural decrease + net immigration
+MAF,Saint Martin (French part),Latin America and the Caribbean,"Fast transition, now peaking",0.028,0.02,14.437,0.621,53.589,59.013,2.718,70.195,Natural increase + net emigration,Natural decrease + net immigration
+PLW,Palau,Oceania,"Fast transition, now peaking",0.018,0.011,4.162,0.885,16.772,6.363,1.907,51.277,Natural decrease + net emigration,Natural decrease + net emigration
+AIA,Anguilla,Latin America and the Caribbean,"Fast transition, now peaking",0.014,0.009,3.183,0.861,-5.36,2.825,1.364,63.556,Natural increase + net immigration,Natural decrease + net emigration
+COK,Cook Islands,Oceania,"Fast transition, now peaking",0.014,0.008,11.925,0.802,24.203,78.062,2.045,62.122,Natural increase + net emigration,Natural decrease + net emigration
+NRU,Nauru,Oceania,"Late transition, still growing",0.012,0.021,5.822,0.796,90.519,15.346,3.331,25.229,Natural increase + net emigration,Natural increase + net emigration
+WLF,Wallis and Futuna Islands,Oceania,"Fast transition, now peaking",0.011,0.007,9.045,0.852,-4.609,22.536,1.41,68.737,Natural increase + net emigration,Natural decrease + net emigration
+BLM,Saint Barthélemy,Latin America and the Caribbean,"Early transition, already aged",0.011,0.009,14.666,0.767,-19.398,-34.726,0.801,81.511,Natural decrease + net immigration,Natural decrease + net immigration
+TUV,Tuvalu,Oceania,"Fast transition, now peaking",0.01,0.012,4.33,0.744,74.847,45.831,3.208,43.347,Natural increase + net emigration,Natural increase + net emigration
+SPM,Saint Pierre and Miquelon,Northern America,"Early transition, already aged",0.006,0.002,1.972,0.992,-11.177,33.035,1.267,73.158,Natural decrease + net emigration,Natural decrease + net emigration
+SHN,Saint Helena,Africa,"Early transition, already aged",0.005,0.003,5.375,0.813,-0.304,7.173,1.636,75.575,Natural decrease + net emigration,Natural decrease + net emigration
+MSR,Montserrat,Latin America and the Caribbean,"Early transition, already aged",0.004,0.003,22.83,0.788,-6.216,-0.359,1.444,71.87,Natural decrease + net emigration,Natural decrease + net emigration
+FLK,Falkland Islands (Malvinas),Latin America and the Caribbean,"Early transition, already aged",0.003,0.002,7.235,0.762,0.0,12.167,1.685,75.562,Natural increase + net emigration,Natural decrease + net emigration
+TKL,Tokelau,Oceania,"Fast transition, now peaking",0.002,0.004,6.728,0.722,42.174,-8.993,2.612,55.991,Natural increase + net immigration,Natural increase + net emigration
+NIU,Niue,Oceania,"Fast transition, now peaking",0.002,0.002,25.287,0.698,42.607,-14.411,2.514,53.634,Natural decrease + net emigration,Natural increase + net immigration
+VAT,Holy See,Europe,"Early transition, already aged",0.0,0.001,2.5,0.359,-0.514,-92.652,1.0,93.625,Natural decrease + net emigration,Natural decrease + net immigration
